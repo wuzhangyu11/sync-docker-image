@@ -10,7 +10,7 @@ on:
       destination:
         description: '目标源 (Registry)'
         required: true
-        default: 'registry.cn-beijing.aliyuncs.com'
+        default: 'crpi-0lujpsewtpw4m1ud-vpc.cn-hongkong.personal.cr.aliyuncs.com'
       source_repo:
         description: '仓库 (格式 repo)'
         required: true
